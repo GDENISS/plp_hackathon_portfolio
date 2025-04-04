@@ -14,7 +14,7 @@ Minimalist design for fast loading
 
 ## How to Run  
 1. Download or clone this repository.  
-2. Open `index.html` in your browser.  
+2. Open `portfolio.html` in your browser.  
 
 ---  
 *Note: No frameworks or libraries—just pure, vanilla code!*  
